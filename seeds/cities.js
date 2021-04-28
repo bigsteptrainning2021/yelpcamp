@@ -276,7 +276,7 @@ module.exports = [
         longitude: -87.9064736,
         population: "599164",
         rank: "31",
-        state: "Wisconsian",
+        state: "Wisconsin",
     },
     {
         city: "Albuquerque",
